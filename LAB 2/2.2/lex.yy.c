@@ -1510,7 +1510,7 @@ int main()
 #line 13 "Letteronly.l"
 
 int main() {
-    printf("Lab Work done by CHAITANYA VASU 2019UGCS059R\n");
+    printf("Lab Work done by RATHOD SRINIVAS 2019UGCS059R\n");
     yylex();
 }
 
