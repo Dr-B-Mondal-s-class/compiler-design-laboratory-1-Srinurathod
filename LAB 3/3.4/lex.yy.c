@@ -1502,7 +1502,7 @@ int main()
 
 
 int main() {
-    printf("Lab Work performed by CHAITANYA VASU 2019UGCS059R\n");
+    printf("Lab Work performed by RATHOD SRINIVAS 2019UGCS026R\n");
     yylex();
 }
 
